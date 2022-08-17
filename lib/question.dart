@@ -28,3 +28,9 @@ class fivesMainStream extends MainStream {
     print("hello world");
   }
 }
+
+class six extends MainStream {
+  void hello() {
+    print("hello world");
+  }
+}
