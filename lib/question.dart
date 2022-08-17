@@ -10,3 +10,9 @@ class Question extends StatelessWidget {
     return Text(questionText);
   }
 }
+
+class MainStream {
+  void hello() {
+    print("hello world");
+  }
+}
