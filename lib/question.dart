@@ -34,3 +34,9 @@ class six extends MainStream {
     print("hello world");
   }
 }
+
+class seven extends MainStream {
+  void hello() {
+    print("hello world");
+  }
+}
