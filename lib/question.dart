@@ -16,3 +16,9 @@ class MainStream {
     print("hello world");
   }
 }
+
+class sMainStream extends MainStream {
+  void hello() {
+    print("hello world");
+  }
+}
